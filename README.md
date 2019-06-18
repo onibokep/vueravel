@@ -2,4 +2,4 @@
 
 i like :coffee: , :pizza: and :bike:
 
-npm install inside && composer install
+npm install && composer install
